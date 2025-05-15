@@ -1,0 +1,54 @@
+Array
+(
+    [payment_id] => P#1
+    [delivery_id] => delivery#1
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#2
+    [delivery_id] => delivery#2
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#3
+    [dropoff_id] => drop#1
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#4
+    [dropoff_id] => drop#2
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#5
+    [dropoff_id] => drop#3
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#6
+    [delivery_id] => delivery#3
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#7
+    [delivery_id] => delivery#4
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#8
+    [delivery_id] => delivery#5
+    [is_ajax] => 1
+)
+Array
+(
+    [payment_id] => P#9
+    [delivery_id] => delivery#6
+    [is_ajax] => 1
+)
